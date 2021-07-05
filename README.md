@@ -25,7 +25,6 @@ genpasswd --help
 Generate password of length 10 and save it to the passwords.txt file
 
 ```bash
-genpasswd --help
 genpasswd --length=10 --save
 ```
 
